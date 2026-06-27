@@ -1,0 +1,24 @@
+.team-section {
+    background-color: #F4F4FD;
+}
+.team-title {
+    text-align: center;
+    line-height: 11%;
+}
+.team-list {
+    list-style-type: none;
+}
+.team-list-item {
+    background-color: #FFFFFF;
+}
+
+.team-list-title {
+    font-weight: 500;
+    text-align: center;
+    font-size: 20px;
+    line-height: 120%;
+}
+.team-list-text {
+    text-align: center;
+    line-height: 150%;
+}

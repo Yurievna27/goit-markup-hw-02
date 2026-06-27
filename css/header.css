@@ -1,0 +1,38 @@
+
+.header-logo {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+.header-span {
+color: #4D5AE5;
+}
+.header-nav {
+}
+.header-nav-list {
+    list-style-type: none;
+}
+
+.header-nav-link:hover {
+    color: #404BBF;
+}
+.header-nav-link {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 500;
+}
+.header-contact {
+}
+.header-contact-list {
+    list-style-type: none;
+}
+.header-contact-item {
+}
+.header-contact-link {
+    text-decoration: none;
+    color: inherit;
+}
+.header-contact-link:hover {
+    color: #404BBF;
+}

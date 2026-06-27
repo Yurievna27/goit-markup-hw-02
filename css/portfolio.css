@@ -1,0 +1,17 @@
+
+.portfolio-title {
+    text-align: center;
+    line-height: 111%;
+}
+.portfolio-list {
+    list-style-type: none;
+}
+
+.portfolio-list-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+}
+.portfolio-list-text {
+    line-height: 150%;
+}
