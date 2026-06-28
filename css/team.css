@@ -1,13 +1,13 @@
 .team-section {
     background-color: #F4F4FD;
-    font-size: 36px;
-    font-weight: 700;
     letter-spacing: 0.02em;
 }
 .team-title {
     text-align: center;
     line-height: 1.1;
     color: #2e2f42;
+    font-size: 36px;
+    font-weight: 700;
 }
 .team-list-item {
     background-color: #FFFFFF;
@@ -24,4 +24,5 @@
     text-align: center;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-size: 16px;
 }
