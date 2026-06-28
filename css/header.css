@@ -2,37 +2,33 @@
 .header-logo {
     text-transform: uppercase;
     text-decoration: none;
-    color: inherit;
+    color: #2e2f42;
     font-weight: bold;
+    font-size: 18px;
+    line-height: 133%;
+    letter-spacing: 0.03em;
 }
 .header-span {
 color: #4D5AE5;
 }
-.header-nav {
-}
-.header-nav-list {
-    list-style-type: none;
-}
-
-.header-nav-link:hover {
+.header-nav-link:hover, 
+.header-nav-link:focus {
     color: #404BBF;
 }
 .header-nav-link {
     text-decoration: none;
-    color: inherit;
+    color: #2e2f42 ;
     font-weight: 500;
-}
-.header-contact {
-}
-.header-contact-list {
-    list-style-type: none;
-}
-.header-contact-item {
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+
 }
 .header-contact-link {
-    text-decoration: none;
-    color: inherit;
+    color: #434455 ;
+    font-style: normal;
 }
-.header-contact-link:hover {
+.header-contact-link:hover, 
+.header-contact-link:focus {
     color: #404BBF;
 }

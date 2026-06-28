@@ -3,15 +3,19 @@
 }
 .footer-logo {
     text-decoration: none;
-    color: #FFFFFF;
+    color: #f4f4fd;
     font-weight: 700;
-font-size: 18px;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    line-height: 1.33;
 }
 .footer-span {
     color: #4D5AE5;
 }
 .footer-text {
-    color: #FFFFFF;
+    color: #f4f4fd;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }

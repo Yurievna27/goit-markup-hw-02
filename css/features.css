@@ -1,13 +1,13 @@
 
-.features-list {
-    list-style-type: none;
-}
 .features-list-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
+    color: #2e2f42;
+    letter-spacing: 0.02em;
 }
 .features-list-text {
-    font-size: 14px;
-    line-height: 150%;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
